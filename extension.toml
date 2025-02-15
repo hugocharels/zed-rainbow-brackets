@@ -1,0 +1,7 @@
+id = "rainbow-brackets"
+name = "Rainbow Brackets"
+version = "0.0.1"
+schema_version = 1
+authors = ["Charels Hugo <you@example.com>"]
+description = "This extension allows matching brackets to be identified with colors."
+repository = "https://github.com/hugocharels/zed-rainbow-brackets.git"
