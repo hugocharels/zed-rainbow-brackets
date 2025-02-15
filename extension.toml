@@ -5,3 +5,7 @@ schema_version = 1
 authors = ["Charels Hugo <you@example.com>"]
 description = "This extension allows matching brackets to be identified with colors."
 repository = "https://github.com/hugocharels/zed-rainbow-brackets.git"
+
+[grammars.language_name]
+repository = "https://github.com/tree-sitter/tree-sitter-rust"
+rev = "2eaf126458a4d6a69401089b6ba78c5e5d6c1ced"
